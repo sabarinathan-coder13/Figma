@@ -1,0 +1,115 @@
+.frame {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1311px;
+  min-height: 1791px;
+  position: relative;
+}
+
+.frame .image {
+  position: absolute;
+  top: 326px;
+  left: 488px;
+  width: 334px;
+  height: 334px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.frame .sec-image {
+  position: absolute;
+  top: 35px;
+  left: 42px;
+  width: 1227px;
+  height: 247px;
+  aspect-ratio: 4.97;
+  object-fit: cover;
+}
+
+.frame .text-on-a-path {
+  position: absolute;
+  top: 1164px;
+  left: 1992px;
+  width: 1075px;
+  height: 200px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: 811px;
+  left: 218px;
+  width: 907px;
+  height: 160px;
+  background-color: #bdbdbd;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 824px;
+  right: 186px;
+  width: 880px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div {
+  position: absolute;
+  top: 1104px;
+  left: 431px;
+  width: 503px;
+  height: 129px;
+  background-color: #0b07ff;
+}
+
+.frame .login {
+  position: absolute;
+  top: 1104px;
+  left: 431px;
+  width: 449px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #fff6f6;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  top: 1358px;
+  left: 431px;
+  width: 503px;
+  height: 133px;
+  background-color: #0400ff;
+}
+
+.frame .register {
+  position: absolute;
+  top: 1358px;
+  left: 454px;
+  width: 480px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #fef9f9;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .designed-by {
+  position: absolute;
+  top: 1616px;
+  left: 863px;
+  width: 464px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
